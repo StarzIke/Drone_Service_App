@@ -1,0 +1,73 @@
+[
+  {
+    "serialNumber" : "PHANTOM4ADVO4A",
+    "model" : "HEAVYWEIGHT",
+    "weightLimit" : 500.0,
+    "batteryCapacity" : 12,
+    "state" : "IDLE"
+
+  },
+  {
+    "serialNumber" : "WIND8060Q20DJ1",
+    "model" : "CRUISERWEIGHT",
+    "weightLimit" : 250.0,
+    "batteryCapacity" : 100,
+    "state" : "LOADED"
+  },
+  {
+    "serialNumber" : "SPARK140A0G0CI",
+    "model" : "LIGHTWEIGHT",
+    "weightLimit" : 150.0,
+    "batteryCapacity" : 100,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "MAVIC2EA140KO3",
+    "model" : "CRUISERWEIGHT",
+    "weightLimit" : 250.0,
+    "batteryCapacity" : 100,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "MATRICE600V2D4",
+    "model" : "MIDDLEWEIGHT",
+    "weightLimit" : 350.0,
+    "batteryCapacity" : 100,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "INSPIREV2FHW12",
+    "model" : "MIDDLEWEIGHT",
+    "weightLimit" : 350.0,
+    "batteryCapacity" : 50,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "AGRAST2OP1415Q",
+    "model" : "CRUISERWEIGHT",
+    "weightLimit" : 250.0,
+    "batteryCapacity" : 100,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "EVO13ZX27YU4K",
+    "model" : "HEAVYWEIGHT",
+    "weightLimit" : 500.0,
+    "batteryCapacity" : 100,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "SIRIUS13ZX49Y",
+    "model" : "HEAVYWEIGHT",
+    "weightLimit" : 500.0,
+    "batteryCapacity" : 240,
+    "state" : "IDLE"
+  },
+  {
+    "serialNumber" : "VEGA13ZX50YUA",
+    "model" : "LIGHTWEIGHT",
+    "weightLimit" : 150.0,
+    "batteryCapacity" : 24.0,
+    "state" : "IDLE"
+  }
+]

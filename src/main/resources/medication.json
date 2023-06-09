@@ -1,0 +1,63 @@
+[
+  {
+    "name" : "Ibuprofen",
+    "weight" : 20.0,
+    "code" : "IBUFEN20",
+    "image" : "src/main/resources/static/images/ibuprofen.png"
+  },
+  {
+    "name" : "Amoxicillin",
+    "weight" : 50.0,
+    "code" : "AMOXY50",
+    "image" : "src/main/resources/static/images/amoxicillin.png"
+  },
+  {
+    "name" : "Hydrocortisone",
+    "weight" : 35.0,
+    "code" : "HYDRO35",
+    "image" : "src/main/resources/static/images/hydrocortisone.png"
+  },
+  {
+    "name" : "Paracetamol",
+    "weight" : 25.0,
+    "code" : "PARA20",
+    "image" : "src/main/resources/static/images/paracetamol.png"
+  },
+  {
+    "name" : "Morphine",
+    "weight" : 55.0,
+    "code" : "MORPH10",
+    "image" : "src/main/resources/static/images/morphine.png"
+  },
+  {
+    "name" : "Doxycycline",
+    "weight" : 55.0,
+    "code" : "DOXY50",
+    "image" : "src/main/resources/static/images/doxycycline.png"
+  },
+  {
+    "name" : "Oxytocin",
+    "weight" : 15.0,
+    "code" : "OXYTO15",
+    "image" : "src/main/resources/static/images/oxytocin.png"
+  },
+  {
+    "name" : "Dexamethasone",
+    "weight" : 30.0,
+    "code" : "DEXAM30",
+    "image" : "src/main/resources/static/images/dexamethasone.png"
+  },
+  {
+    "name" : "Fentanyl",
+    "weight" : 45.0,
+    "code" : "FENT10",
+    "image" : "src/main/resources/static/images/ciprofloxacin.png"
+  },
+  {
+    "name" : "Epinephrine",
+    "weight" : 40.0,
+    "code" : "EPINE10",
+    "image" : "src/main/resources/static/images/epinephrine.png"
+  }
+
+]
